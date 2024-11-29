@@ -234,6 +234,6 @@ Papéis:
 
 
 ## Observações
-Os administradores das permissões IAM da organização são a equipe DevOps:
+Os administradores das permissões IAM da organização são os DevOps:
 - Gabriel P.
 - Matheus B.
