@@ -42,6 +42,4 @@
 
 #### Atualmente, nossa organização adota uma estrutura de grupos de permissionamento para facilitar e agilizar a concessão de permissões a diferentes squads que compartilham objetivos comuns. Além disso, utilizamos contas de serviço dedicadas para atender às necessidades específicas de cada aplicação, garantindo que cada recurso tenha acesso apropriado e seguro. Abaixo, apresentamos a distribuição detalhada das permissões.
 
-## Permissões atribuídas
-
-[Permissões atribuídas](/Permissionamento.md)
+### [Permissões atribuídas](/documentacao/Permissionamento.md)
