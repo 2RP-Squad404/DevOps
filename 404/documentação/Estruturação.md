@@ -44,4 +44,4 @@
 
 ## Permissões atribuídas
 
-[Permissões atribuídas](404/documentação/Permissionamento.md)
+[Permissões atribuídas](/documentação/Permissionamento.md)
