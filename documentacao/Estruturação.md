@@ -40,6 +40,13 @@
 ### 8. *Terraform*
 - *Descrição*: Terraform é uma ferramenta de infraestrutura como código que permite criar, modificar e versionar recursos de nuvem de forma automatizada e declarativa.
 
-#### Atualmente, nossa organização adota uma estrutura de grupos de permissionamento para facilitar e agilizar a concessão de permissões a diferentes squads que compartilham objetivos comuns. Além disso, utilizamos contas de serviço dedicadas para atender às necessidades específicas de cada aplicação, garantindo que cada recurso tenha acesso apropriado e seguro. Abaixo, apresentamos a distribuição detalhada das permissões.
+Atualmente, nossa organização adota uma estrutura de grupos de permissionamento para facilitar e agilizar a concessão de permissões a diferentes squads que compartilham objetivos comuns. Além disso, utilizamos contas de serviço dedicadas para atender às necessidades específicas de cada aplicação, garantindo que cada recurso tenha acesso apropriado e seguro. Abaixo, apresentamos a distribuição detalhada das permissões.
 
 ### [Permissões atribuídas](/documentacao/Permissionamento.md)
+
+# Pipelines
+## Dataform
+Estamos desenvolvendo uma pipeline de automação de dados utilizando o Dataform, uma ferramenta poderosa para integração de dados que facilita a criação, manutenção e atualização automatizada de conjuntos de dados. <br>
+Abaixo, apresentamos a estrutura detalhada dessa pipeline.
+
+### [Pipeline Dataform](/documentacao/PipelineDataform.md)
