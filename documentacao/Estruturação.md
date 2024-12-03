@@ -45,7 +45,7 @@ Atualmente, nossa organização adota uma estrutura de grupos de permissionament
 ### [Permissões atribuídas](/documentacao/Permissionamento.md)
 
 # Pipelines
-## Dataform
+## Cloud Buil/Dataform
 Estamos desenvolvendo uma pipeline de automação de dados utilizando o Dataform, uma ferramenta poderosa para integração de dados que facilita a criação, manutenção e atualização automatizada de conjuntos de dados. <br>
 Abaixo, apresentamos a estrutura detalhada dessa pipeline.
 
