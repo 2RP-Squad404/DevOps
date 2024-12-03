@@ -22,7 +22,7 @@ Build e Testes Unitários: Configurei pipelines que automatiza o build do códig
 
 CI/CD com Deploy Automatizado: Desenvolvi uma pipeline de Integração e Entrega Contínua (CI/CD) que realiza o deploy automático de uma aplicação. Essa automação reduz o tempo de entrega e diminui os erros manuais durante a implantação.
 
-![Deploy](/imagens/JenkinsLeilaoDeploy.png)
+![Deploy](/imagens/jenkinsLeilaoDeploy.png)
 
 Para tornar o processo mais eficiente e escalável, estou utilizando uma imagem Docker para rodar o Jenkins. Isso traz diversas vantagens, como a portabilidade do ambiente de execução, facilidade de configuração e isolamento das dependências, o que simplifica muito a instalação e a manutenção da ferramenta.
 
