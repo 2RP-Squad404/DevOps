@@ -50,3 +50,9 @@ Estamos desenvolvendo uma pipeline de automação de dados utilizando o Dataform
 Abaixo, apresentamos a estrutura detalhada dessa pipeline.
 
 ### [Pipeline Dataform](/documentacao/PipelineDataform.md)
+
+## Jenkins
+Ao longo dos estudos, pude explorar o funcionamento do Jenkins e compreender como ele se destaca como uma ferramenta indispensável para automatizar processos ao longo do ciclo de desenvolvimento de software. <br>
+Abaixo estão algumas das tarefas de CI/CD que desenvolvi e estudos relacionados ao Jenkins.
+
+### [Pipeline Jenkins](/documentacao/Jenkins.md)
